@@ -16,7 +16,7 @@ const cards = [
   },
   {
     title: "Reviews",
-    href: "https://wa.me/" + (site.phone?.replace(/[^\d]/g, "") || ""),
+    href: "https://wa.me/" + (site.whatsappNumber?.replace(/[^\d]/g, "") || ""),
     image: "/images/review-1.png",
   },
   {

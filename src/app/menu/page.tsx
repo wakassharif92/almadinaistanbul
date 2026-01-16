@@ -151,7 +151,7 @@ export default function MenuPage() {
         </div>
       </div>
 
-      {/* Mobile hero image so it stays visible */}
+      {/* Mobile hecro image so it stays visible */}
       <section className="relative h-64 w-full overflow-hidden lg:hidden">
         <div
           className="absolute inset-0 bg-cover bg-center"
